@@ -7,3 +7,4 @@ INSERT INTO th_data (timestamp, temperature, temperature_category, humidity, hum
 INSERT INTO th_data (timestamp, temperature, temperature_category, humidity, humidity_category) VALUES ('2023-08-18 13:37:08', 23.25, 'comfortable', 51.97796630859375, 'comfortable');
 INSERT INTO th_data (timestamp, temperature, temperature_category, humidity, humidity_category) VALUES ('2023-08-18 13:37:39', 23.908185958862305, 'comfortable', 51.37061309814453, 'comfortable');
 INSERT INTO th_data (timestamp, temperature, temperature_category, humidity, humidity_category) VALUES ('2023-08-18 13:40:15', 26.334070205688477, 'hot', 46.20952606201172, 'comfortable');
+INSERT INTO th_data (timestamp, temperature, temperature_category, humidity, humidity_category) VALUES ('2023-08-18 15:07:23', 38.18141555786133, 'hot', 25.2714786529541, 'dry');
